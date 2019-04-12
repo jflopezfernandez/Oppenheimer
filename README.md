@@ -1,5 +1,5 @@
 
-![GitHub](https://img.shields.io/github/license/jflopezfernandez/Oppenheimer.svg?color=green) [![Build Status](https://travis-ci.org/jflopezfernandez/Oppenheimer.svg?branch=master)](https://travis-ci.org/jflopezfernandez/Oppenheimer)
+![GitHub](https://img.shields.io/github/license/jflopezfernandez/Oppenheimer.svg?color=green) [![Build Status](https://travis-ci.org/jflopezfernandez/Oppenheimer.svg?branch=master)](https://travis-ci.org/jflopezfernandez/Oppenheimer) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ce1feb2a0f784e9397c62fa4b4b4c310)](https://www.codacy.com/app/jflopezfernandez/Oppenheimer?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jflopezfernandez/Oppenheimer&amp;utm_campaign=Badge_Grade)
 
 <hr />
 
