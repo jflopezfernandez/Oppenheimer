@@ -68,7 +68,7 @@ Statistical analysis and machine learning tool written in C++.
  * [Blaze](https://bitbucket.org/blaze-lib/blaze/overview) - [Docs](https://bitbucket.org/blaze-lib/blaze/wiki/Home)
  * [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) - [Docs](http://eigen.tuxfamily.org/index.php?title=Main_Page#Documentation)
  * [StatsLib](https://www.kthohr.com/statslib.html) - [Docs](https://www.kthohr.com/statslib.html)
- * [Statsxx](http://statsxx.com/) - [Docs](http://wiki.statsxx.com/view/Main_Page)\
+ * [Statsxx](http://statsxx.com/) - [Docs](http://wiki.statsxx.com/view/Main_Page)
  * [forest](https://github.com/xorz57/forest) - [Docs](https://github.com/xorz57/forest)
  * [The Parsing Expression Grammar Template Library (PEGTL)](https://github.com/taocpp/PEGTL) - [Docs](https://github.com/taocpp/PEGTL/tree/master/doc)
  * [GraphBLAS Template Library](https://github.com/cmu-sei/gbtl)
@@ -100,4 +100,4 @@ Statistical analysis and machine learning tool written in C++.
 
 <hr />
 
-![GitHub followers](https://img.shields.io/github/followers/jflopezfernandez.svg?label=Follow&logo=Github) ![GitHub forks](https://img.shields.io/github/forks/jflopezfernandez/Oppenheimer.svg?label=Fork&logo=Github) ![GitHub watchers](https://img.shields.io/github/watchers/jflopezfernandez/Oppenheimer.svg?label=Watch&logo=Github) ![Twitter Follow](https://img.shields.io/twitter/follow/JFloppyz.svg?logo=Twitter)
+![GitHub followers](https://img.shields.io/github/followers/jflopezfernandez.svg?label=Follow&logo=Github) ![GitHub forks](https://img.shields.io/github/forks/jflopezfernandez/Oppenheimer.svg?label=Fork&logo=Github) ![GitHub watchers](https://img.shields.io/github/watchers/jflopezfernandez/Oppenheimer.svg?label=Watch&logo=Github) ![Twitter URL](https://img.shields.io/twitter/url/https/JFloppyz.svg?color=blue&label=Tweet&logo=Twitter&style=plastic) ![Twitter Follow](https://img.shields.io/twitter/follow/JFloppyz.svg?color=blue&label=Follow&logo=Twitter&style=plastic) 
