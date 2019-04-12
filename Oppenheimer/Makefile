@@ -1,6 +1,4 @@
 
-SHELL = /bin/sh
-
 vpath %.cpp src
 vpath %.hpp include
 

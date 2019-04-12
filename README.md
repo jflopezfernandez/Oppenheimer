@@ -1,4 +1,6 @@
 
+![GitHub](https://img.shields.io/github/license/jflopezfernandez/Oppenheimer.svg?color=green)
+
 # Oppenheimer
 
 Statistical analysis and machine learning tool written in C++.
@@ -93,3 +95,7 @@ Statistical analysis and machine learning tool written in C++.
 
  * [Rextester](https://rextester.com/runcode)
  * [Wandbox](https://wandbox.org/)
+
+<hr />
+
+![GitHub followers](https://img.shields.io/github/followers/jflopezfernandez.svg?label=Follow&logo=Github) ![GitHub forks](https://img.shields.io/github/forks/jflopezfernandez/Oppenheimer.svg?label=Fork&logo=Github) ![GitHub watchers](https://img.shields.io/github/watchers/jflopezfernandez/Oppenheimer.svg?label=Watch&logo=Github) ![Twitter Follow](https://img.shields.io/twitter/follow/JFloppyz.svg?logo=Twitter)
