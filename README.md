@@ -1,5 +1,7 @@
 
-![GitHub](https://img.shields.io/github/license/jflopezfernandez/Oppenheimer.svg?color=green)
+![GitHub](https://img.shields.io/github/license/jflopezfernandez/Oppenheimer.svg?color=green) [![Build Status](https://travis-ci.org/jflopezfernandez/Oppenheimer.svg?branch=master)](https://travis-ci.org/jflopezfernandez/Oppenheimer)
+
+<hr />
 
 # Oppenheimer
 
